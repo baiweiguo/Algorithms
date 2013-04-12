@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1365737969 source:/home/bai/git/repos/kmp/kmp/main.cpp
+	"naive.h"
+
+1365737969 /home/bai/git/repos/kmp/kmp/naive.h
+	<iostream>
+
