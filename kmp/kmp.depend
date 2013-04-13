@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1365774367 source:/home/bai/git/repos/kmp/kmp/main.cpp
+	"naive.h"
+	"kmp.h"
+
+1365773919 /home/bai/git/repos/kmp/kmp/naive.h
+	<string>
+	<iostream>
+
+1365767387 source:/home/bai/git/repos/kmp/kmp/naive.cpp
+	"naive.h"
+
+1365774312 source:/home/bai/git/repos/kmp/kmp/kmp.cpp
+	"kmp.h"
+
+1365774293 /home/bai/git/repos/kmp/kmp/kmp.h
+	<string>
+	<iostream>
+
+1365818784 source:/home/bai/git/repos/Algorithms/kmp/kmp.cpp
+	"kmp.h"
+
+1365816136 /home/bai/git/repos/Algorithms/kmp/kmp.h
+	<string>
+	<iostream>
+
+1365818027 source:/home/bai/git/repos/Algorithms/kmp/main.cpp
+	"naive.h"
+	"kmp.h"
+
+1365813762 /home/bai/git/repos/Algorithms/kmp/naive.h
+	<string>
+	<iostream>
+
+1365818425 source:/home/bai/git/repos/Algorithms/kmp/naive.cpp
+	"naive.h"
+
